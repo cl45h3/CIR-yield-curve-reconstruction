@@ -1,6 +1,6 @@
-# CIR Yield-Curve Reconstruction
+# CIR Yield-Curve Prediction
 
-This repository contains a Google Colab/Jupyter notebook for reconstructing a zero-coupon yield curve from the observed 3M yield using a CIR baseline and CIR++ extension.
+This repository contains a Google Colab/Jupyter notebook for predicting a zero-coupon yield curve from the observed 3M yield using a CIR baseline and CIR++ extension.
 
 ## Files
 
